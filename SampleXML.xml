@@ -1,0 +1,34 @@
+<XML>
+	<Head>
+		<Name>Full</Name>
+		<Type>Full XML</Type>
+		<Thing1>Working</Thing1>
+		<Thing2>TO be transfered</Thing2>
+	</Head>
+	<Body>
+		<Sub1>
+			<Thing1>4</Thing1>
+			<Thing2>6</Thing2>
+			<Thing3>12</Thing3>
+			<Thing4>62</Thing4>
+		</Sub1>
+		<Sub2>
+			<Thing1>42</Thing1>
+			<Thing2>1</Thing2>
+			<Thing3>89</Thing3>
+			<Thing4>74</Thing4>
+		</Sub2>
+		<Sub3>
+			<Thing1>5</Thing1>
+			<Thing2>12</Thing2>
+			<Thing3>11</Thing3>
+			<Thing4>98</Thing4>
+		</Sub3>
+		<Sub4>
+			<Thing1>8</Thing1>
+			<Thing2>45</Thing2>
+			<Thing3>12</Thing3>
+			<Thing4>65</Thing4>
+		</Sub4>
+	</Body>
+</XML>

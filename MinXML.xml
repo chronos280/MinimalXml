@@ -1,0 +1,17 @@
+<XML>
+	<Head>
+		<Name>Minimal</Name>
+		<Type>Minimal XML</Type>
+	</Head>
+	<Body>
+		<Sub1>
+			<Thing1>1</Thing1>
+			<Thing2>22</Thing2>
+			<Thing3>34</Thing3>
+		</Sub1>
+		<Sub2>
+			<Thing1>48</Thing1>
+			<Thing2>7</Thing2>
+		</Sub2>
+	</Body>
+</XML>
